@@ -10,7 +10,6 @@ function voltar(){
 function inserir(botao){
     var numero = document.getElementById('resultado').innerHTML 
     document.getElementById('resultado').innerHTML = numero+botao
-
 }
 
 
